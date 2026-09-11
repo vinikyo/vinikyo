@@ -49,23 +49,84 @@ I build web applications, internal systems and practical software solutions usin
 
 ## 🎮 Let's play Pokémon together~
 
-<img src="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/image" width="300"/>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=2&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
-<br><a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=1&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=0&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=5&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=4&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
-<br><a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=3&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
-<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=6&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a> <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=7&callback=https://github.com/vinikyo"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
+<img
+  src="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/image"
+  width="320"
+  alt="Pokémon Red running on Gameboy.Live"
+/>
 
----
+<br><br>
 
-Click the buttons above to send a Game Boy input. Refresh this profile to view the newest game screen.
+<table>
+  <tr>
+    <td></td>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=2&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/%E2%96%B2-UP-2b2d42?style=for-the-badge" alt="Up" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=1&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/%E2%97%80-LEFT-2b2d42?style=for-the-badge" alt="Left" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=3&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/%E2%96%BC-DOWN-2b2d42?style=for-the-badge" alt="Down" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=0&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/%E2%96%B6-RIGHT-2b2d42?style=for-the-badge" alt="Right" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=5&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/B-8ac926?style=for-the-badge" alt="B" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=4&callback=https://github.com/vinikyo">
+        <img src="https://img.shields.io/badge/A-1982c4?style=for-the-badge" alt="A" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=6&callback=https://github.com/vinikyo">
+  <img src="https://img.shields.io/badge/SELECT-6c757d?style=for-the-badge" alt="Select" />
+</a>
+
+<a href="https://p01--pokemon-gameboy--vzh7k9h89jzz.code.run/control?button=7&callback=https://github.com/vinikyo">
+  <img src="https://img.shields.io/badge/START-6c757d?style=for-the-badge" alt="Start" />
+</a>
+
+<br><br>
+
+<sub>
+Click a button to send a Game Boy input.<br>
+Refresh this profile to see the newest game screen.
+</sub>
+
+</div>
 
 <details>
 <summary>About this game section</summary>
 
 This section runs **Pokémon Red** through my deployed instance of [Gameboy.Live](https://github.com/HFO4/gameboy.live), an open-source Game Boy emulator written in Go.
 
-Gameboy.Live and the original README gamepad concept were created by [HFO4](https://github.com/HFO4).
+The README sends controller inputs to the server through HTTP routes and displays the latest game screenshot directly on this profile.
+
+Inspired by the playable README/gamepad concept from [HFO4](https://github.com/HFO4).
 
 </details>
 
