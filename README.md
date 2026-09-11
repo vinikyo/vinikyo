@@ -171,18 +171,6 @@ Front-end project focused on presenting and documenting advanced Mantine compone
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinikyo&show_icons=true&hide_border=true&theme=github_dark" alt="Vinícius GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinikyo&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 - GitHub: [@vinikyo](https://github.com/vinikyo)
@@ -194,6 +182,6 @@ Front-end project focused on presenting and documenting advanced Mantine compone
 
 ### Thanks for visiting 👾
 
-**Always learning, building and improving.**
+**A sword wields no strength unless the hand that holds it has courage.**
 
 </div>
