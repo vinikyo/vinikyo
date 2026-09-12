@@ -135,9 +135,10 @@ Inspired by the playable README/gamepad concept from [HFO4](https://github.com/H
 ## 🚀 Featured Projects
 
 ### 🃏 [Portal de Cartas](https://github.com/vinikyo/portal-cartas)
-**PHP • MySQL • HTML • CSS • JavaScript**
 
-Web application for managing collectible cards, including authentication and CRUD operations.
+**PHP • MySQL • JWT • Docker**
+
+REST API in plain PHP with manual JWT authentication, rate limiting and Railway deployment. Full CRUD for collectible cards (Magic/Pokémon/Yu-Gi-Oh!) with filtering, pagination and centralized error handling.
 
 ---
 
@@ -148,12 +149,11 @@ Interactive Full Stack Pokédex with dynamic data loading, filtering and user au
 
 ---
 
-### 🌊 [Hackathon / StudyMons](https://github.com/vinikyo/hackathon)
+### 🌊 [StudyMons — Maré do Saber](https://github.com/vinikyo/studymons)
+
 **Next.js • Tailwind CSS**
 
-Gamified educational platform created during the 2026 IFSP-Caraguatatuba Hackathon in partnership with SEDUC and STII.
-
-The project combines elementary-school content with RPG-inspired mechanics, quizzes, characters and rankings.
+Gamified educational platform (RPG mechanics + BNCC-aligned content) for elementary school, built in 30 straight hours at the IFSP-Caraguatatuba Hackathon in partnership with SEDUC and STII.
 
 ---
 
